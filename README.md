@@ -1,1 +1,1 @@
-# appli-trie-quipe
+# appli-trie-equipe
